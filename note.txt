@@ -1,0 +1,12 @@
+color
+    nb #0f2656
+    sk #1493ff
+
+    rd #f15767
+
+    p  #fdebed
+    g  #ebf9f4
+    y  #fff7e8
+
+    header shadow color  #f2f3f5
+    
